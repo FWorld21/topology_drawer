@@ -1,0 +1,337 @@
+SX6035 SW-2-0-0
+   P1 -4x-10G-> SX6035 SW-1-0-0 P1
+   P2 -4x-10G-> SX6035 SW-3-0-0 P31
+   P3 -4x-10G-> SX6035 SW-3-0-1 P1
+   P4 -4x-10G-> SX6035 SW-3-0-2 P1
+   P5 -4x-10G-> SX6035 SW-3-0-3 P1
+   P6 -4x-10G-> SX6035 SW-1-1-0 P1
+   P7 -4x-10G-> SX6035 SW-3-1-0 P13
+   P8 -4x-10G-> SX6035 SW-3-1-1 P14
+   P9 -4x-10G-> SX6035 SW-3-1-2 P15
+   P10 -4x-10G-> SX6035 SW-3-1-3 P13
+
+SX6035 SW-2-1-0
+   P1 -4x-10G-> SX6035 SW-1-1-0 P2
+   P2 -4x-10G-> SX6035 SW-3-1-0 P1
+   P3 -4x-10G-> SX6035 SW-3-1-1 P1
+   P4 -4x-10G-> SX6035 SW-3-1-2 P1
+   P5 -4x-10G-> SX6035 SW-3-1-3 P1
+   P6 -4x-10G-> SX6035 SW-1-0-0 P2
+   P7 -4x-10G-> SX6035 SW-3-0-0 P14
+   P8 -4x-10G-> SX6035 SW-3-0-1 P15
+   P9 -4x-10G-> SX6035 SW-3-0-2 P14
+   P10 -4x-10G-> SX6035 SW-3-0-3 P14
+
+SX6035 SW-2-2-0
+   P1 -4x-10G-> SX6035 SW-1-2-0 P1
+   P2 -4x-10G-> SX6035 SW-3-2-0 P1
+   P3 -4x-10G-> SX6035 SW-3-2-1 P1
+   P4 -4x-10G-> SX6035 SW-3-2-2 P1
+   P5 -4x-10G-> SX6035 SW-3-2-3 P1
+   P6 -4x-10G-> SX6035 SW-1-2-1 P1
+   P7 -4x-10G-> SX6035 SW-3-3-0 P14
+   P8 -4x-10G-> SX6035 SW-3-3-1 P14
+   P9 -4x-10G-> SX6035 SW-3-3-2 P15
+   P10 -4x-10G-> SX6035 SW-3-3-3 P13
+
+SX6035 SW-2-3-0
+   P1 -4x-10G-> SX6035 SW-1-2-1 P2
+   P2 -4x-10G-> SX6035 SW-3-3-0 P1
+   P3 -4x-10G-> SX6035 SW-3-3-1 P1
+   P4 -4x-10G-> SX6035 SW-3-3-2 P1
+   P5 -4x-10G-> SX6035 SW-3-3-3 P1
+   P6 -4x-10G-> SX6035 SW-1-2-0 P2
+   P7 -4x-10G-> SX6035 SW-3-2-0 P13
+   P8 -4x-10G-> SX6035 SW-3-2-1 P10
+   P9 -4x-10G-> SX6035 SW-3-2-2 P14
+   P10 -4x-10G-> SX6035 SW-3-2-3 P14
+
+SX6035 SW-3-0-0
+   P2 -4x-10G-> Cougar H2003 P1
+   P3 -4x-10G-> Cougar H2004 P1
+   P4 -4x-10G-> Cougar H2033 P1
+   P5 -4x-10G-> Cougar H2049 P1
+   P6 -4x-10G-> Cougar H2034 P1
+   P7 -4x-10G-> Cougar H2050 P1
+   P8 -4x-10G-> Cougar H2035 P1
+   P9 -4x-10G-> Cougar H2051 P1
+   P10 -4x-10G-> Cougar H2020 P1
+   P11 -4x-10G-> Cougar H2036 P1
+   P12 -4x-10G-> Cougar H2021 P1
+   P13 -4x-10G-> Cougar H2037 P1
+   P14 -4x-10G-> SX6035 SW-2-1-0 P7
+   P31 -4x-10G-> SX6035 SW-2-0-0 P2
+
+SX6035 SW-3-0-1
+   P1 -4x-10G-> SX6035 SW-2-0-0 P3
+   P2 -4x-10G-> Cougar H2003 P2
+   P3 -4x-10G-> Cougar H2004 P2
+   P4 -4x-10G-> Cougar H2005 P1
+   P5 -4x-10G-> Cougar H2022 P1
+   P6 -4x-10G-> Cougar H2038 P1
+   P7 -4x-10G-> Cougar H2023 P1
+   P8 -4x-10G-> Cougar H2039 P1
+   P9 -4x-10G-> Cougar H2024 P1
+   P10 -4x-10G-> Cougar H2040 P1
+   P11 -4x-10G-> Cougar H2025 P1
+   P12 -4x-10G-> Cougar H2041 P1
+   P13 -4x-10G-> Cougar H2026 P1
+   P14 -4x-10G-> Cougar H2042 P1
+   P15 -4x-10G-> SX6035 SW-2-1-0 P8
+
+SX6035 SW-3-0-2
+   P1 -4x-10G-> SX6035 SW-2-0-0 P4
+   P2 -4x-10G-> Cougar H2005 P2
+   P3 -4x-10G-> Cougar H2006 P1
+   P4 -4x-10G-> Cougar H2047 P1
+   P5 -4x-10G-> Cougar H2031 P1
+   P6 -4x-10G-> Cougar H2046 P1
+   P7 -4x-10G-> Cougar H2030 P1
+   P8 -4x-10G-> Cougar H2045 P1
+   P9 -4x-10G-> Cougar H2029 P1
+   P10 -4x-10G-> Cougar H2044 P1
+   P11 -4x-10G-> Cougar H2028 P1
+   P12 -4x-10G-> Cougar H2043 P1
+   P13 -4x-10G-> Cougar H2027 P1
+   P14 -4x-10G-> SX6035 SW-2-1-0 P9
+
+SX6035 SW-3-0-3
+   P1 -4x-10G-> SX6035 SW-2-0-0 P5
+   P2 -4x-10G-> Cougar H2006 P2
+   P3 -4x-10G-> Cougar H2007 P2
+   P4 -4x-10G-> Cougar H2032 P1
+   P5 -4x-10G-> Cougar H2048 P1
+   P6 -4x-10G-> Cougar H2065 P1
+   P7 -4x-10G-> Cougar H2081 P1
+   P8 -4x-10G-> Cougar H2097 P1
+   P9 -4x-10G-> Cougar H2113 P1
+   P10 -4x-10G-> Cougar H2129 P1
+   P11 -4x-10G-> Cougar H2145 P1
+   P12 -4x-10G-> Cougar H2066 P1
+   P13 -4x-10G-> Cougar H2082 P1
+   P14 -4x-10G-> SX6035 SW-2-1-0 P10
+
+SX6035 SW-3-1-0
+   P1 -4x-10G-> SX6035 SW-2-1-0 P2
+   P2 -4x-10G-> Cougar H2007 P1
+   P3 -4x-10G-> Cougar H2146 P1
+   P4 -4x-10G-> Cougar H2130 P1
+   P5 -4x-10G-> Cougar H2114 P1
+   P6 -4x-10G-> Cougar H2098 P1
+   P7 -4x-10G-> Cougar H2147 P1
+   P8 -4x-10G-> Cougar H2131 P1
+   P9 -4x-10G-> Cougar H2115 P1
+   P10 -4x-10G-> Cougar H2099 P1
+   P11 -4x-10G-> Cougar H2083 P1
+   P12 -4x-10G-> Cougar H2067 P1
+   P13 -4x-10G-> SX6035 SW-2-0-0 P7
+
+SX6035 SW-3-1-1
+   P1 -4x-10G-> SX6035 SW-2-1-0 P3
+   P2 -4x-10G-> Cougar H2008 P1
+   P3 -4x-10G-> Cougar H2009 P1
+   P4 -4x-10G-> Cougar H2052 P1
+   P5 -4x-10G-> Cougar H2068 P1
+   P6 -4x-10G-> Cougar H2084 P1
+   P7 -4x-10G-> Cougar H2100 P1
+   P8 -4x-10G-> Cougar H2116 P1
+   P9 -4x-10G-> Cougar H2132 P1
+   P10 -4x-10G-> Cougar H2148 P1
+   P11 -4x-10G-> Cougar H2053 P1
+   P12 -4x-10G-> Cougar H2069 P1
+   P13 -4x-10G-> Cougar H2085 P1
+   P14 -4x-10G-> SX6035 SW-2-0-0 P8
+
+SX6035 SW-3-1-2
+   P1 -4x-10G-> SX6035 SW-2-1-0 P4
+   P2 -4x-10G-> Cougar H2008 P2
+   P3 -4x-10G-> Cougar H2009 P2
+   P4 -4x-10G-> Cougar H2010 P1
+   P5 -4x-10G-> Cougar H2134 P1
+   P6 -4x-10G-> Cougar H2118 P1
+   P7 -4x-10G-> Cougar H2102 P1
+   P8 -4x-10G-> Cougar H2086 P1
+   P9 -4x-10G-> Cougar H2070 P1
+   P10 -4x-10G-> Cougar H2054 P1
+   P11 -4x-10G-> Cougar H2149 P1
+   P12 -4x-10G-> Cougar H2133 P1
+   P13 -4x-10G-> Cougar H2117 P1
+   P14 -4x-10G-> Cougar H2101 P1
+   P15 -4x-10G-> SX6035 SW-2-0-0 P9
+
+SX6035 SW-3-1-3
+   P1 -4x-10G-> SX6035 SW-2-1-0 P5
+   P2 -4x-10G-> Cougar H2010 P2
+   P3 -4x-10G-> Cougar H2055 P1
+   P4 -4x-10G-> Cougar H2071 P1
+   P5 -4x-10G-> Cougar H2087 P1
+   P6 -4x-10G-> Cougar H2103 P1
+   P7 -4x-10G-> Cougar H2119 P1
+   P8 -4x-10G-> Cougar H2135 P1
+   P9 -4x-10G-> Cougar H2151 P1
+   P10 -4x-10G-> Cougar H2150 P1
+   P11 -4x-10G-> Cougar H2056 P1
+   P12 -4x-10G-> Cougar H2072 P1
+   P13 -4x-10G-> SX6035 SW-2-0-0 P10
+
+SX6035 SW-3-2-0
+   P1 -4x-10G-> SX6035 SW-2-2-0 P2
+   P2 -4x-10G-> Cougar H2011 P1
+   P3 -4x-10G-> Cougar H2104 P1
+   P4 -4x-10G-> Cougar H2120 P1
+   P5 -4x-10G-> Cougar H2136 P1
+   P6 -4x-10G-> Cougar H2057 P1
+   P7 -4x-10G-> Cougar H2073 P1
+   P8 -4x-10G-> Cougar H2089 P1
+   P9 -4x-10G-> Cougar H2105 P1
+   P10 -4x-10G-> Cougar H2121 P1
+   P11 -4x-10G-> Cougar H2137 P1
+   P12 -4x-10G-> Cougar H2107 P1
+   P13 -4x-10G-> SX6035 SW-2-3-0 P7
+
+SX6035 SW-3-2-1
+   P1 -4x-10G-> SX6035 SW-2-2-0 P3
+   P2 -4x-10G-> Cougar H2011 P2
+   P3 -4x-10G-> Cougar H2012 P1
+   P4 -4x-10G-> Cougar H2091 P1
+   P5 -4x-10G-> Cougar H2075 P1
+   P6 -4x-10G-> Cougar H2059 P1
+   P7 -4x-10G-> Cougar H2138 P1
+   P8 -4x-10G-> Cougar H2122 P1
+   P9 -4x-10G-> Cougar H2106 P1
+   P10 -4x-10G-> SX6035 SW-2-3-0 P8
+
+SX6035 SW-3-2-2
+   P1 -4x-10G-> SX6035 SW-2-2-0 P4
+   P2 -4x-10G-> Cougar H2012 P2
+   P3 -4x-10G-> Cougar H2013 P1
+   P4 -4x-10G-> Cougar H2060 P1
+   P5 -4x-10G-> Cougar H2076 P1
+   P6 -4x-10G-> Cougar H2092 P1
+   P7 -4x-10G-> Cougar H2108 P1
+   P8 -4x-10G-> Cougar H2124 P1
+   P9 -4x-10G-> Cougar H2140 P1
+   P10 -4x-10G-> Cougar H2123 P1
+   P11 -4x-10G-> Cougar H2139 P1
+   P12 -4x-10G-> Cougar H2061 P1
+   P13 -4x-10G-> Cougar H2077 P1
+   P14 -4x-10G-> SX6035 SW-2-3-0 P9
+
+SX6035 SW-3-2-3
+   P1 -4x-10G-> SX6035 SW-2-2-0 P5
+   P2 -4x-10G-> Cougar H2013 P2
+   P3 -4x-10G-> Cougar H2014 P1
+   P4 -4x-10G-> Cougar H2093 P1
+   P5 -4x-10G-> Cougar H2109 P1
+   P6 -4x-10G-> Cougar H2125 P1
+   P7 -4x-10G-> Cougar H2141 P1
+   P8 -4x-10G-> Cougar H2062 P1
+   P9 -4x-10G-> Cougar H2078 P1
+   P10 -4x-10G-> Cougar H2094 P1
+   P11 -4x-10G-> Cougar H2110 P1
+   P12 -4x-10G-> Cougar H2126 P1
+   P13 -4x-10G-> Cougar H2142 P1
+   P14 -4x-10G-> SX6035 SW-2-3-0 P10
+
+SX6035 SW-3-3-0
+   P1 -4x-10G-> SX6035 SW-2-3-0 P2
+   P2 -4x-10G-> Cougar H2014 P2
+   P3 -4x-10G-> Cougar H2015 P1
+   P4 -4x-10G-> Cougar H2063 P1
+   P5 -4x-10G-> Cougar H2079 P1
+   P6 -4x-10G-> Cougar H2095 P1
+   P7 -4x-10G-> Cougar H2111 P1
+   P8 -4x-10G-> Cougar H2127 P1
+   P9 -4x-10G-> Cougar H2143 P1
+   P10 -4x-10G-> Cougar H2064 P1
+   P11 -4x-10G-> Cougar H2080 P1
+   P12 -4x-10G-> Cougar H2096 P1
+   P13 -4x-10G-> Cougar H2112 P1
+   P14 -4x-10G-> SX6035 SW-2-2-0 P7
+
+SX6035 SW-3-3-1
+   P1 -4x-10G-> SX6035 SW-2-3-0 P3
+   P2 -4x-10G-> Cougar H2015 P2
+   P3 -4x-10G-> Cougar H2016 P1
+   P4 -4x-10G-> Cougar H2128 P1
+   P5 -4x-10G-> Cougar H2144 P1
+   P6 -4x-10G-> Cougar H2161 P1
+   P7 -4x-10G-> Cougar H2177 P1
+   P8 -4x-10G-> Cougar H2162 P1
+   P9 -4x-10G-> Cougar H2178 P1
+   P10 -4x-10G-> Cougar H2163 P1
+   P11 -4x-10G-> Cougar H2179 P1
+   P12 -4x-10G-> Cougar H2164 P1
+   P13 -4x-10G-> Cougar H2165 P1
+   P14 -4x-10G-> SX6035 SW-2-2-0 P8
+
+SX6035 SW-3-3-2
+   P1 -4x-10G-> SX6035 SW-2-3-0 P4
+   P2 -4x-10G-> Cougar H2016 P2
+   P3 -4x-10G-> Cougar H2017 P1
+   P4 -4x-10G-> Cougar H2018 P2
+   P5 -4x-10G-> Cougar H2171 P1
+   P6 -4x-10G-> Cougar H2155 P1
+   P7 -4x-10G-> Cougar H2170 P1
+   P8 -4x-10G-> Cougar H2154 P1
+   P9 -4x-10G-> Cougar H2167 P1
+   P10 -4x-10G-> Cougar H2166 P1
+   P11 -4x-10G-> Cougar H2169 P1
+   P12 -4x-10G-> Cougar H2153 P1
+   P13 -4x-10G-> Cougar H2168 P1
+   P14 -4x-10G-> Cougar H2152 P1
+   P15 -4x-10G-> SX6035 SW-2-2-0 P9
+
+SX6035 SW-3-3-3
+   P1 -4x-10G-> SX6035 SW-2-3-0 P5
+   P2 -4x-10G-> Cougar H2017 P2
+   P3 -4x-10G-> Cougar H2018 P1
+   P4 -4x-10G-> Cougar H2156 P1
+   P5 -4x-10G-> Cougar H2172 P1
+   P6 -4x-10G-> Cougar H2173 P1
+   P7 -4x-10G-> Cougar H2158 P1
+   P8 -4x-10G-> Cougar H2159 P1
+   P9 -4x-10G-> Cougar H2160 P1
+   P10 -4x-10G-> Cougar H2174 P1
+   P11 -4x-10G-> Cougar H2175 P1
+   P12 -4x-10G-> Cougar H2176 P1
+   P13 -4x-10G-> SX6035 SW-2-2-0 P10
+
+SX6035 SW-1-0-0
+   P1 -4x-10G-> SX6035 SW-2-0-0 P1
+   P2 -4x-10G-> SX6035 SW-2-1-0 P6
+   P3 -4x-10G-> SX6035 SW-0-0-1 P3
+   P4 -4x-10G-> SX6035 SW-0-0-0 P1
+
+SX6035 SW-1-1-0
+   P1 -4x-10G-> SX6035 SW-2-0-0 P6
+   P2 -4x-10G-> SX6035 SW-2-1-0 P1
+   P3 -4x-10G-> SX6035 SW-0-0-1 P1
+   P4 -4x-10G-> SX6035 SW-0-0-0 P4
+
+SX6035 SW-1-2-0
+   P1 -4x-10G-> SX6035 SW-2-2-0 P1
+   P2 -4x-10G-> SX6035 SW-2-3-0 P6
+   P3 -4x-10G-> SX6035 SW-0-0-0 P2
+   P4 -4x-10G-> SX6035 SW-0-0-1 P4
+
+SX6035 SW-1-2-1
+   P1 -4x-10G-> SX6035 SW-2-2-0 P6
+   P2 -4x-10G-> SX6035 SW-2-3-0 P1
+   P3 -4x-10G-> SX6035 SW-0-0-1 P2
+   P4 -4x-10G-> SX6035 SW-0-0-0 P5
+
+SX6035 SW-0-0-0
+   P1 -4x-10G-> SX6035 SW-1-0-0 P4
+   P2 -4x-10G-> SX6035 SW-1-2-0 P3
+   P3 -4x-10G-> Cougar H2019 P1
+   P4 -4x-10G-> SX6035 SW-1-1-0 P4
+   P5 -4x-10G-> SX6035 SW-1-2-1 P4
+
+SX6035 SW-0-0-1
+   P1 -4x-10G-> SX6035 SW-1-1-0 P3
+   P2 -4x-10G-> SX6035 SW-1-2-1 P3
+   P3 -4x-10G-> SX6035 SW-1-0-0 P3
+   P4 -4x-10G-> SX6035 SW-1-2-0 P4
+
+
